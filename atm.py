@@ -65,7 +65,9 @@ n=int(input())
 for i in range(n):
 	k=input()
 	print(k[::-1])
+	
 """
+print("hello  i m working with git")
 n=int(input())
 p1,p2=[],[]
 
